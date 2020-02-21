@@ -58,15 +58,18 @@ There are many mod managers around these days and it's may be a bit difficult to
 				 Nexus Mod Manager, MO1, MO2.
 			<td id="MO2">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO1">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="Vortex">
 				MO2, MO1, NMM.
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -88,24 +91,30 @@ There are many mod managers around these days and it's may be a bit difficult to
 			<td class="feature-name">Assets conflict management</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
-				<div class="cmp-yes" /> 
+				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/> 
 			</td>
 			<td id="MO1">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="Vortex">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
 			<td class="feature-name">Conflict visualization</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
         		Different conflict flags on modlist for different conflict types (winning/losing/both).
@@ -157,6 +166,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			<td class="feature-name">Game archives (BSA) management</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
 				Extraction, 
@@ -171,15 +181,18 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="Vortex">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
 			<td class="feature-name">Game archives (BSA) Conflicts</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
 				Only experimental WIP conflict visualization of archives through BSA specific conflict flags. BSA order is decided by plugin order like normal.
@@ -191,9 +204,11 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="Vortex">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -203,6 +218,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -218,6 +234,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -237,6 +254,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			<td class="feature-name">Integrated LOOT support</td>
 			<td id="KMM">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="MO2">
 				One click sort, detailed loot report, visualization of loot info on pluginlist through flags and tooltips.
@@ -259,12 +277,14 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
 			<td class="feature-name">Backup features</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
 				Modlist loadorder,
@@ -281,24 +301,30 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
 			<td class="feature-name">Program list</td>
 			<td id="KMM">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="MO2">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="MO1">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="Vortex">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -308,15 +334,19 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="MO2">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO1">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="Vortex">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -439,18 +469,23 @@ There are many mod managers around these days and it's may be a bit difficult to
 			<td class="feature-name">Game root directory virtualization</td>
 			<td id="KMM">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="MO2">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO1">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="Vortex">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -478,6 +513,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -569,36 +605,46 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="MO1">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="Vortex">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 		</tr>
 		<tr>
 			<td class="feature-name" align="left">Integrated download manager</td>
 			<td id="KMM">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="MO2">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="MO1">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="Vortex">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-yes" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203989803204630/tick.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -623,6 +669,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			<td class="feature-name">Problem detection</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
 				Plugins with missing masters,
@@ -650,7 +697,8 @@ There are many mod managers around these days and it's may be a bit difficult to
 		<tr>
 			<td class="feature-name">GUI customization</td>
 			<td id="KMM">
-				<div class="cmp-no" /> 
+				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/> 
 			</td>
 			<td id="MO2">
 				Comes with 15+ built in styles, more available on Nexus.
@@ -666,7 +714,8 @@ There are many mod managers around these days and it's may be a bit difficult to
 				Change colors and fonts via a setting menu.
 			</td>
 			<td id="NMM">
-				<div class="cmp-no" />?
+				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>?
 			</td>
 		</tr>
 		<tr>
@@ -687,6 +736,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
@@ -756,6 +806,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			<td class="feature-name">Game files preview</td>
 			<td id="KMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="MO2">
 				.DDS Textures complete preview support.
@@ -768,9 +819,11 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="Vortex">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr class="tooltip">
@@ -833,54 +886,7 @@ There are many mod managers around these days and it's may be a bit difficult to
 			</td>
 			<td id="NMM">
 				<div class="cmp-no" />
-			</td>
-			<tr>
-			<td class="feature-name">Current Development State and maintainers</td>
-			<td id="KMM">
-				Open Source, Fully released. 
-				Maintained and not-actively developed on by Kerber (non-payed developer), with highly irregular feature updates.
-			</td>
-			<td id="MO2">
-				Open Source, Fully released.
-				Maintained and actively developed on by MO2 Team (community non-payed developers), with regular feature updates.
-			</td>
-			<td id="MO1">
-				Open Source, Fully released.
-				No longer maintained or updated.
-			</td>
-			<td id="Vortex">
-				Open Source, Fully released.
-				Maintained and actively developed by NexusMods (payed professionals), with frequent feature updates and fixes.
-			</td>
-			<td id="NMM">
-				Open Source, Beta release.
-				Discontinued by NexusMods in favour of Vortex.
-				Currently maintained by a few members of the community.
-			</td>
-		</tr>
-		</tr>
-		<tr>
-			<td class="feature-name">Current Development State and maintainers</td>
-			<td id="KMM">
-				Open Source, Fully released. 
-				Maintained and not-actively developed on by Kerber (non-payed developer), with highly irregular feature updates.
-			</td>
-			<td id="MO2">
-				Open Source, Fully released.
-				Maintained and actively developed on by MO2 Team (community non-payed developers), with regular feature updates.
-			</td>
-			<td id="MO1">
-				Open Source, Fully released.
-				No longer maintained or updated.
-			</td>
-			<td id="Vortex">
-				Open Source, Fully released.
-				Maintained and actively developed by NexusMods (payed professionals), with frequent feature updates and fixes.
-			</td>
-			<td id="NMM">
-				Open Source, Beta release.
-				Discontinued by NexusMods in favour of Vortex.
-				Currently maintained by a few members of the community.
+				<img src="https://cdn.discordapp.com/attachments/347329036084707330/680203972564484176/cross.png"/>
 			</td>
 		</tr>
 		<tr>
